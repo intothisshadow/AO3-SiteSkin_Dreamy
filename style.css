@@ -4,11 +4,12 @@ Theme URI: https://github.com/intothisshadow/AO3-Site-Skin---Dreamy
 Author: intothisshadow
 Author URI: https://www.so-obsessed.com
 
-Colors Used:
+Colors:
   pale blue: #94BBE9 | dusty pink: #eeaeca | grey: #f9f9f9
   pink red: #E0146D  | darker blue: #2b5876 | font color: #110314
   visited link color: #8101f8 | tags background color: #c40cf8
 */
+
 
 body,.toggled form,.dynamic form,.secondary,.dropdown {
   font-family: "Roboto", Garamond, Palatino, serif;
